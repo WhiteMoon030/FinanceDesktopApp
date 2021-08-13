@@ -1,0 +1,20 @@
+Project-Information
+-------------------
+Hey, I want to program a simpel Desktop Application in the programming language golang.
+I have not much experience and this is my first bigger project, I hope I can learn something.
+-------------------
+Application Features:
+  - show momentary money balance in one big counter on the start page
+  - saves the money balance on the computer
+  - but also show bank balance and cash money separately
+  - type in income and outcome easily with categories (food, clothes,...)
+  - and whether the money is transfered to/apart from the bank account or cash money 
+  - show money balance in a timeline with statistics
+  - show in a pie chart on what categorie you spent the most money and from what categorie
+  you have the biggest income
+  - not overloaded and simple
+Why GitHub?
+  - to track the process and for a better structure
+Goals:
+  - have fun :D and learn more about golang
+  
